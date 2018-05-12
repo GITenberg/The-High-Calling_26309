@@ -1,0 +1,29 @@
+_repo: The-High-Calling_26309
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sheldon, Charles M.
+    alias: Sheldon, Charles Monroe
+    birthdate: 1857
+    deathdate: 1946
+    gutenberg_agent_id: '1495'
+    url: http://www.gutenberg.org/2009/agents/1495
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Sheldon
+description: ''
+gutenberg_issued: '2008-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26309'
+  lccn: '11025437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcc 'PS'
+title: The High Calling
+url: http://www.gutenberg.org/ebooks/26309
