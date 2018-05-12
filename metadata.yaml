@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1495
     wikipedia: http://en.wikipedia.org/wiki/Charles_Sheldon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26309#The-High-Calling
 gutenberg_issued: '2008-08-14'
 gutenberg_type: Text
 identifiers:
